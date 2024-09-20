@@ -31,6 +31,6 @@ To log in, use the following example credentials:
 3. **Install Dependencies:**
     npm install
    
-4. **Run App**
+4. **Run App:**
     npm start
 
