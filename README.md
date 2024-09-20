@@ -19,18 +19,18 @@ To log in, use the following example credentials:
 
 1. **Clone the Repository:**
 
-   Open your terminal and run the following command to clone the repository:
+    Open your terminal and run the following command to clone the repository:
 
-  git clone https://github.com/YOUR_USERNAME/login-page.git
+    git clone https://github.com/YOUR_USERNAME/login-page.git
 
 
 2. **Change to the project directory:**
 
-cd login-page
+    cd login-page
 
 3. **Install Dependencies:**
-   npm install
+    npm install
    
 4. **Run App**
-   npm start
+    npm start
 
